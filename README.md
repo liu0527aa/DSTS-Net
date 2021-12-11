@@ -1,22 +1,16 @@
-# DSTS-Net
-the source code of 《Efficient Video Quality Assessment with Deeper Spatiotemporal Feature Extraction and Integration》
+# Effificient Video Quality Assessment with Deeper Spatiotemporal Feature Extraction and Integration
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](License)
 
-Using the original version of the model, We toke part in the competition called with team of HDVT.
+the source code is coming soon before 2022.1.1.
 
-the resuly of the competition can be seen in ugcvqa.com
+## Description
+DSTS-Net code for the following papers:
 
-Our original model  got 10th/12 prize in ugcvqa.com(2021 ICME competition on 2021/4/31). Also, we got 8th/12 on the reference videos.
+- Yinhao Liu, Xiaofei Zhou, Haibing Yin*,and so on. 
+[Effificient Video Quality Assessment with Deeper Spatiotemporal Feature Extraction and Integration](https://dl.acm.org/citation.cfm?doid=3343031.3351028). Journal of Electronic imaging,SPIE,2021. 
+[[paper]](...)
+![Framework](Framework.jpg)
 
-This proves that our original model has a better performance improvement for reference videos of different content.
 
-Here, we modify the model and improve the performance.
-
-After the article is accepted, we will release the source code.
-
-Qualitative/6408325533.mp4 is the video source of Fig 1(a)
-
-Qualitative/10925288616.mp4 is the video source of Fig 1(b)
-
-Qualitative/B233.mp4 is the video source of Fig 12.(a)
-
-Qualitative/G073.mp4 is the video source of Fig 12.(b)
+### Contact
+Yinhao Liu, 15081620 AT hdu DOT edu DOT cn.
