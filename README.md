@@ -7,7 +7,7 @@ the source code is coming soon before 2022.1.1.
 DSTS-Net code for the following papers:
 
 - Yinhao Liu, Xiaofei Zhou, Haibing Yin*,and so on. 
-[Effificient Video Quality Assessment with Deeper Spatiotemporal Feature Extraction and Integration](https://dl.acm.org/citation.cfm?doid=3343031.3351028). Journal of Electronic imaging,SPIE,2021. 
+[Effificient Video Quality Assessment with Deeper Spatiotemporal Feature Extraction and Integration](https://dl.acm.org/citation.cfm?doid=3). Journal of Electronic imaging,SPIE,2021. 
 [[paper]](...)
 ![Framework](Framework.jpg)
 
