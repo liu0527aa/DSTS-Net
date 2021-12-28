@@ -24,6 +24,7 @@ Yinhao Liu, Wei Zhang and so on.
 |------| ----- | ----- | ----- | ----- 
 |SROCC | 0.812| 0.881 | 0.790 | 0.758
 |PLCC  | 0.817 | 0.876 | 0.799 | 0.778  
+
 ###How to use
 SOC.py is used to extract second order covariance
 DSTS_345_9ff_mean_fc.py is used to build deep temporal modeling network
